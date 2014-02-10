@@ -1,9 +1,19 @@
 This application is used to simulate a distributed system with clients, proxy and fileservers.
 
 Ant Template
+=============
 
 Ant is a Java-based build tool that significantly eases the development process. If you have not installed ant yet, download it and follow the instructions.
 We provide a template build file (build.xml in the template) in which you only have to adjust some parameters and class names. Put your source into the subdirectory "src/main/java". To compile your code, simply type "ant" in the directory where the build file is located. Enter "ant run-proxy" to start the Proxy, "ant run-client" to start the client and "ant run-fileserverX" (with X being 1 or 2) to start the respective fileserver. Note that it's absolutely required that we are able to start your programs with these predefined commands! Also note that build files created by IDE's like Netbeans very often aren't portable, so please use the provided template.
+
+Usage
+==========
+
+Open terminals for each a client, proxy and 2 fileservers
+Start proxy - "ant run-proxy"
+Start client - "ant run-client"
+Start fileserver - "ant run-fileserver1"
+start 2nd fileserver - "ant run-fileserver2"
 
 The architecture is as follows: Fileservers store all the files available to the clients. They are fully replicated, i.e., each single fileserver stores exactly the same files. Files are identified by their filename and all reside in a given directory of the file system.
 
