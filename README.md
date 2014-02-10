@@ -33,9 +33,9 @@ Client Interactive commands
 !login <username> <password>
 Log in the user. Before the user hasn’t successfully logged in, this is the only command that will be executed by the Proxy.
 E.g.:
->: !login alice 23456
+>: !login alice 23456\\
 Wrong username or password.
->: !login alice 12345
+>: !login alice 12345\\
 Successfully logged in.
 !credits
 Requests the user’s current amount of credits. Requires a successfully logged in user.
