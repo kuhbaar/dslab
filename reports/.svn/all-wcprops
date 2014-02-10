@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/dslab2ws13/!svn/ver/36/reports
+END
+TEST-test.ClientTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dslab2ws13/!svn/ver/2/reports/TEST-test.ClientTest.txt
+END
+TEST-test.ProxyTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dslab2ws13/!svn/ver/2/reports/TEST-test.ProxyTest.txt
+END
+TEST-test.SimpleTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dslab2ws13/!svn/ver/36/reports/TEST-test.SimpleTest.txt
+END
+TEST-test.ApiTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dslab2ws13/!svn/ver/36/reports/TEST-test.ApiTest.txt
+END

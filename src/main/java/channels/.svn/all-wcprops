@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dslab2ws13/!svn/ver/28/src/main/java/channels
+END
+AuthServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dslab2ws13/!svn/ver/28/src/main/java/channels/AuthServer.java
+END
+WrongChallengeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dslab2ws13/!svn/ver/21/src/main/java/channels/WrongChallengeException.java
+END
+ChannelDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dslab2ws13/!svn/ver/22/src/main/java/channels/ChannelDecorator.java
+END
+Base64Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dslab2ws13/!svn/ver/22/src/main/java/channels/Base64Channel.java
+END
+AESChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dslab2ws13/!svn/ver/22/src/main/java/channels/AESChannel.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dslab2ws13/!svn/ver/22/src/main/java/channels/Channel.java
+END
+AuthClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dslab2ws13/!svn/ver/28/src/main/java/channels/AuthClient.java
+END
+TCPChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dslab2ws13/!svn/ver/22/src/main/java/channels/TCPChannel.java
+END

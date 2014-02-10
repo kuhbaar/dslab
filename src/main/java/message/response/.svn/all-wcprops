@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dslab2ws13/!svn/ver/27/src/main/java/message/response
+END
+InfoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/InfoResponse.java
+END
+ListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/ListResponse.java
+END
+FileServerInfoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/FileServerInfoResponse.java
+END
+CreditsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/CreditsResponse.java
+END
+LoginResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/LoginResponse.java
+END
+UserInfoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/UserInfoResponse.java
+END
+VersionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/VersionResponse.java
+END
+MessageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/MessageResponse.java
+END
+HMacResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dslab2ws13/!svn/ver/27/src/main/java/message/response/HMacResponse.java
+END
+BuyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/BuyResponse.java
+END
+DownloadFileResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/DownloadFileResponse.java
+END
+DownloadTicketResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/response/DownloadTicketResponse.java
+END
+HMacErrorResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dslab2ws13/!svn/ver/25/src/main/java/message/response/HMacErrorResponse.java
+END

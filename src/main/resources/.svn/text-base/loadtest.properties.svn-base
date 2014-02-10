@@ -1,0 +1,5 @@
+clients=3
+uploadsPerMin=60
+downloadsPerMin=60
+fileSizeKB=100
+overwriteRatio=0.8

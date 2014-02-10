@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/dslab2ws13/!svn/ver/37/src/main/java/client
+END
+IClientCli.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dslab2ws13/!svn/ver/4/src/main/java/client/IClientCli.java
+END
+IClientRMI.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dslab2ws13/!svn/ver/10/src/main/java/client/IClientRMI.java
+END
+ClientThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dslab2ws13/!svn/ver/37/src/main/java/client/ClientThread.java
+END
+ClientMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dslab2ws13/!svn/ver/12/src/main/java/client/ClientMain.java
+END
+ClientLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dslab2ws13/!svn/ver/15/src/main/java/client/ClientLogic.java
+END
+ClientRMI.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dslab2ws13/!svn/ver/11/src/main/java/client/ClientRMI.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/dslab2ws13/!svn/ver/31/src/main/java/server
+END
+FileServerLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dslab2ws13/!svn/ver/25/src/main/java/server/FileServerLogic.java
+END
+FileServerMain2.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dslab2ws13/!svn/ver/4/src/main/java/server/FileServerMain2.java
+END
+FsAliveThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dslab2ws13/!svn/ver/30/src/main/java/server/FsAliveThread.java
+END
+FileServerMain1.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dslab2ws13/!svn/ver/4/src/main/java/server/FileServerMain1.java
+END
+IFileServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dslab2ws13/!svn/ver/4/src/main/java/server/IFileServer.java
+END
+IFileServerCli.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dslab2ws13/!svn/ver/4/src/main/java/server/IFileServerCli.java
+END
+FileServerCommands.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dslab2ws13/!svn/ver/4/src/main/java/server/FileServerCommands.java
+END
+FsThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dslab2ws13/!svn/ver/31/src/main/java/server/FsThread.java
+END

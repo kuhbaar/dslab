@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/dslab2ws13/!svn/ver/2/keys
+END
+bill.pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/dslab2ws13/!svn/ver/2/keys/bill.pub.pem
+END
+bill.pem
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/dslab2ws13/!svn/ver/2/keys/bill.pem
+END
+proxy.pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/dslab2ws13/!svn/ver/2/keys/proxy.pub.pem
+END
+hmac.key
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/dslab2ws13/!svn/ver/2/keys/hmac.key
+END
+proxy.pem
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/dslab2ws13/!svn/ver/2/keys/proxy.pem
+END
+alice.pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/dslab2ws13/!svn/ver/2/keys/alice.pub.pem
+END
+alice.pem
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/dslab2ws13/!svn/ver/2/keys/alice.pem
+END

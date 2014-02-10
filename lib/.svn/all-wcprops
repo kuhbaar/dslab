@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/dslab2ws13/!svn/ver/2/lib
+END
+bcprov-jdk16-140.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dslab2ws13/!svn/ver/2/lib/bcprov-jdk16-140.jar
+END
+junit-4.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/dslab2ws13/!svn/ver/2/lib/junit-4.11.jar
+END
+hamcrest-core-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/dslab2ws13/!svn/ver/2/lib/hamcrest-core-1.3.jar
+END

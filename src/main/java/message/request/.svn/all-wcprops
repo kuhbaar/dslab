@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dslab2ws13/!svn/ver/25/src/main/java/message/request
+END
+B64Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dslab2ws13/!svn/ver/22/src/main/java/message/request/B64Request.java
+END
+UploadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/UploadRequest.java
+END
+DownloadFileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/DownloadFileRequest.java
+END
+DownloadTicketRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/DownloadTicketRequest.java
+END
+LoginChallenge.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dslab2ws13/!svn/ver/17/src/main/java/message/request/LoginChallenge.java
+END
+BuyRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/BuyRequest.java
+END
+HMacRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dslab2ws13/!svn/ver/25/src/main/java/message/request/HMacRequest.java
+END
+VersionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/VersionRequest.java
+END
+OkChallenge.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dslab2ws13/!svn/ver/20/src/main/java/message/request/OkChallenge.java
+END
+LoginRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/LoginRequest.java
+END
+CreditsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/CreditsRequest.java
+END
+LogoutRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/LogoutRequest.java
+END
+InfoRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/InfoRequest.java
+END
+ListRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dslab2ws13/!svn/ver/4/src/main/java/message/request/ListRequest.java
+END

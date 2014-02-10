@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/dslab2ws13/!svn/ver/4/src/main/java/cli
+END
+Shell.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dslab2ws13/!svn/ver/4/src/main/java/cli/Shell.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dslab2ws13/!svn/ver/4/src/main/java/cli/Command.java
+END
+TestInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dslab2ws13/!svn/ver/4/src/main/java/cli/TestInputStream.java
+END
+TestOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dslab2ws13/!svn/ver/4/src/main/java/cli/TestOutputStream.java
+END

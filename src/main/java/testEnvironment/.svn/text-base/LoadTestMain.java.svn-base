@@ -1,0 +1,42 @@
+package testEnvironment;
+
+
+import proxy.Proxy;
+import server.FileServerMain1;
+import util.Config;
+import util.ShellThread;
+import cli.Shell;
+
+
+public class LoadTestMain {
+
+	public static void main(String args[])	{
+		//start proxy
+    	//Proxy.main(args);
+    	//start fileserver
+    	//FileServerMain1.main(args);
+    
+    	ShellThread st = new ShellThread(new Shell("loadTestShell", System.out, System.in));
+	    LoadTestLogic logic = new LoadTestLogic(new Config("loadtest"), st);
+	    System.out.println(logic);
+	    logic.startTesting();
+	    
+	    
+	    
+//	    try{
+//	      Socket sclient = new Socket(InetAddress.getByName(logic.getProxyHost()), logic.getProxyTcp());
+//	      SubscriberThread ct = new SubscriberThread(sclient, logic);
+//	      ct.start();
+//
+//	      st.getShell().register(ct);
+//	      st.getShell().register(rmi);
+//	      st.start();
+//	    } catch (ConnectException e){
+//	      System.err.println("No Proxy Running");
+//	    } catch (IllegalArgumentException e){
+//	      System.out.println("Wrong Command\nPossible commands: !login <name> <pwd>, !credits, !buy <amount>, !list, !download <filename>, !upload <filename>, !logout, !exit");
+//	    } catch (Exception e){
+//	      e.printStackTrace();
+//	    }
+	}
+}

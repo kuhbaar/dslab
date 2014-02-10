@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/dslab2ws13/!svn/ver/27/src/main/java/util
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dslab2ws13/!svn/ver/4/src/main/java/util/TestUtils.java
+END
+ChecksumUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dslab2ws13/!svn/ver/4/src/main/java/util/ChecksumUtils.java
+END
+HMacChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dslab2ws13/!svn/ver/25/src/main/java/util/HMacChecker.java
+END
+ComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dslab2ws13/!svn/ver/18/src/main/java/util/ComponentFactory.java
+END
+ShellThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dslab2ws13/!svn/ver/4/src/main/java/util/ShellThread.java
+END
+NullOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dslab2ws13/!svn/ver/4/src/main/java/util/NullOutputStream.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dslab2ws13/!svn/ver/4/src/main/java/util/Config.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dslab2ws13/!svn/ver/27/src/main/java/util/Serializer.java
+END

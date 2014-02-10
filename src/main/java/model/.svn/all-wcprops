@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/dslab2ws13/!svn/ver/10/src/main/java/model
+END
+FileServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dslab2ws13/!svn/ver/4/src/main/java/model/FileServerInfo.java
+END
+UserInfoPersist.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dslab2ws13/!svn/ver/4/src/main/java/model/UserInfoPersist.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dslab2ws13/!svn/ver/4/src/main/java/model/UserInfo.java
+END
+FileserverInfoPersist.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dslab2ws13/!svn/ver/7/src/main/java/model/FileserverInfoPersist.java
+END
+SubscriptionPersist.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dslab2ws13/!svn/ver/10/src/main/java/model/SubscriptionPersist.java
+END
+DownloadTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dslab2ws13/!svn/ver/4/src/main/java/model/DownloadTicket.java
+END
