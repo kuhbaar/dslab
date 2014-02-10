@@ -12,11 +12,11 @@ We provide a template build file (build.xml in the template) in which you only h
 Usage
 --------------
 
-*Open terminals for each a client, proxy and 2 fileservers
-*Start proxy - "ant run-proxy"
-*Start client - "ant run-client"
-*Start fileserver - "ant run-fileserver1"
-*Start 2nd fileserver - "ant run-fileserver2"
+* Open terminals for each a client, proxy and 2 fileservers
+* Start proxy - "ant run-proxy"
+* Start client - "ant run-client"
+* Start fileserver - "ant run-fileserver1"
+* Start 2nd fileserver - "ant run-fileserver2"
 
 The architecture is as follows: Fileservers store all the files available to the clients. They are fully replicated, i.e., each single fileserver stores exactly the same files. Files are identified by their filename and all reside in a given directory of the file system.
 
