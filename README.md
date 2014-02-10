@@ -27,37 +27,37 @@ The Proxy stores information about every client and every fileserver in the comm
 To avoid a waste of network resources, there is no connection being held between the Proxy and a fileserver between two distinct requests. That is, after the fileserver has responded to the Proxy’s request, the connection gets closed again. However, to signal that it is still online and ready to handle requests, a fileserver needs to send UDP messages (so called "isAlive" packets) in a recurring manner – any other communication in this assignment is done using TCP. Figure 2 illustrates this behavior: Imagine that in the example above, ‘fileserver1’ would fail to send alive packets to the Proxy. The Proxy will remove ‘fileserver1’ from its list of available fileservers and instead forward the next download request to ‘fileserver3’, which now is the least used fileserver.
 
 Client Interactive commands
-*!login <username> <password>
+* !login <username> <password>
 Log in the user. Before the user hasn’t successfully logged in, this is the only command that will be executed by the Proxy.
 
-*!credits
+* !credits
 Requests the user’s current amount of credits. Requires a successfully logged in user.
 
-*!buy <credits>
+* !buy <credits>
 Allows the user to increase his/her amount of credits. Requires a successfully logged in user.
 
-*!list
+* !list
 Gets the complete list of files available to download. Requires a successfully logged in user.
 
-*!upload <filename>
+* !upload <filename>
 Uploads the specified file to the Proxy, which takes care of replicating the file to all file servers. Furthermore, the Proxy increases the uploading user's credit count accordingly.
 
-*!download <filename>
+* !download <filename>
 Downloads the specified file into the private download folder (downloadDir).
 
-*!logout
+* !logout
 Log out the currently logged in user, and drop any state information from memory that the client has associated with this user.
 
-*!exit
+* !exit
 Shutdown the client: Logout the user if necessary and be sure to release all resources, stop all threads and close any open sockets.
 
 The Proxy accepts the following interactive commands:
 
-*!fileservers
+* !fileservers
 Prints out some information about each known fileserver, online or offline. A fileserver is known if it has sent a single isAlive packet since the Proxy's last startup. The information shall contain the fileserver's IP, TCP port, online status (online/offline) and usage.
 
-*!users
+* !users
 Prints out some information about each user, containing username, login status (online/offline) and credits.
 
-*!exit
+* !exit
 Shutdown the Proxy. 
